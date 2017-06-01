@@ -1,0 +1,36 @@
+E:\Executaveis liberados\Urna_ele\Urna_ele\bin\Debug\Urna_ele.exe.config
+E:\Executaveis liberados\Urna_ele\Urna_ele\obj\Debug\Urna_ele.csprojResolveAssemblyReference.cache
+E:\Executaveis liberados\Urna_ele\Urna_ele\obj\Debug\Urna_ele.Form1.resources
+E:\Executaveis liberados\Urna_ele\Urna_ele\obj\Debug\Urna_ele.Properties.Resources.resources
+E:\Executaveis liberados\Urna_ele\Urna_ele\obj\Debug\Urna_ele.csproj.GenerateResource.Cache
+E:\Executaveis liberados\Urna_ele\Urna_ele\bin\Debug\Urna_ele.exe
+E:\Executaveis liberados\Urna_ele\Urna_ele\bin\Debug\Urna_ele.pdb
+E:\Executaveis liberados\Urna_ele\Urna_ele\obj\Debug\Urna_ele.exe
+E:\Executaveis liberados\Urna_ele\Urna_ele\obj\Debug\Urna_ele.pdb
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.exe.config
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.exe
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.pdb
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.exe
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.pdb
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.csprojResolveAssemblyReference.cache
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.Form1.resources
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.Properties.Resources.resources
+C:\Users\gerso\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.csproj.GenerateResource.Cache
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.exe.config
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.exe
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.pdb
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.exe
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.pdb
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.csprojResolveAssemblyReference.cache
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.Form1.resources
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.Properties.Resources.resources
+C:\Users\Alexandre\Desktop\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.csproj.GenerateResource.Cache
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.exe.config
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.exe
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.pdb
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.exe
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\bin\Debug\Urna_ele.pdb
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.csprojResolveAssemblyReference.cache
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.Form1.resources
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.Properties.Resources.resources
+D:\Escolas, Faculdade\Uninove\5° Semestre 2017\Programação em C#\Urna_ele_tivi\Urna_ele_tivi\Urna_ele\obj\Debug\Urna_ele.csproj.GenerateResource.Cache
